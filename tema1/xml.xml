@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+ <libro>
+ <titulo>Platero y yo</titulo>
+ <autor>Juan Ramón Jiménez</autor>
+ </libro>
+  <libro>
+ <titulo>Romancero gitano</titulo>
+ <autor>García Lorca</autor>
+ </libro>
+</biblioteca>
