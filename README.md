@@ -1,5 +1,5 @@
 # Ejercicios de LLMM organizados por temas
-##Tema 1##
+##Tema 1
 Nombre | Descripción
 -------|------------
 [Ejercicio 1](/tema1/html.html) | Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
