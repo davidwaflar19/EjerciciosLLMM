@@ -1,0 +1,9 @@
+
+<!-- a. What do comments look like in XML? -->
+<!--A comment look like this-->
+
+<!-- b. Can an attribute be repeated in the same element? -->
+<!--No, an attribute can only be set once-->
+
+<!--Where is it stated that the element names in opening and closing tags must match?-->
+<!--In the section 3-->
